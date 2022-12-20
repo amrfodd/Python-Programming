@@ -1,0 +1,6 @@
+The ability to handle files is essential to many programs and applications. But how do you imbue your code with such a superpower?
+
+Fortunately, Python boasts several built-in functions that allow you to perform a variety of file operations. Study them, and you'll be well on your way toward becoming a master (file) manipulator.
+
+Ever been on a phone call while cooking some food in the kitchen, with a game or TV show running in the background? Well, in the same way that humans can perform multiple tasks simultaneously, so too can Python! Indeed, asynchronous programming is our favorite language's version of multitasking.
+
